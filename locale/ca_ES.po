@@ -1,0 +1,7 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:product.product:"
+msgid "Not allow to delete last variant."
+msgstr "No es permet l'eliminació de la última variant"
