@@ -1,7 +1,7 @@
-# This file is part product_product module for Tryton.
+# This file is part product_variant_delete module for Tryton.
 # The COPYRIGHT file at the top level of this repository contains
 # the full copyright notices and license terms.
 
-from .test_product_product import suite
+from .test_product_variant_delete import suite
 
 __all__ = ['suite']
